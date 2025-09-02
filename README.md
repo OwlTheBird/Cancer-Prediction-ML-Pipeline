@@ -1,6 +1,6 @@
-# Cancer Prediction
+# Breast Cancer Prediction Model
 
-A Jupyter notebook that demonstrates a complete machine learning workflow for cancer prediction.  
+A Jupyter notebook that demonstrates a complete machine learning workflow for breast cancer prediction.  
 It covers data preprocessing, exploratory analysis, feature selection, model training, evaluation, and model export.
 
 ## Features
